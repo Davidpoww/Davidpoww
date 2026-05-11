@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hey, soy Wopex (David)
 
-<!--
-**Davidpoww/Davidpoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado de la ciberseguridad con enfoque en **Blue Team y Defensa**.
+Este repositorio recoge mis writeups de CTFs y máquinas de hacking, documentando mi aprendizaje y evolución en el mundo de la seguridad informática.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 🛡️ Especialización en **Blue Team / Defensa**
+- 🐧 Entorno de trabajo: **Kali Linux**
+- 📡 Estudiando actualmente: **Cisco Networking (CCNA)**
+- 🎯 Próximos objetivos: eJPT → CompTIA Security+ → CEH
+- 🚩 Aprendizaje continuo a través de plataformas CTF y The Big School
+
+---
+
+## 🛠️ Herramientas y Tecnologías
+
+| Herramienta | Nivel | Progreso |
+|---|---|---|
+| [Kali Linux](https://www.kali.org) | Principiante | ██████░░░░ 55% |
+| [Nmap](https://nmap.org) | Principiante | █████░░░░░ 50% |
+| [Metasploit](https://www.metasploit.com) | Principiante | ████░░░░░░ 35% |
+| [Wireshark](https://www.wireshark.org) | Principiante | ███░░░░░░░ 30% |
+| [Burp Suite](https://portswigger.net/burp) | Principiante | ███░░░░░░░ 25% |
+
+---
+
+## 📖 Lenguajes en Aprendizaje
+
+| Lenguaje | Nivel | Progreso |
+|---|---|---|
+| [Python](https://www.python.org) | Principiante | ███░░░░░░░ 30% |
+| [Bash](https://www.gnu.org/software/bash) | Principiante | ███░░░░░░░ 30% |
+| [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) | Principiante | ██░░░░░░░░ 20% |
+
+---
+
+## 📂 Writeups
+
+### 🔴 TheHackersLabs
+
+| Máquina | SO | Dificultad | Técnicas | Writeup |
+|---|---|---|---|---|
+| Microchoft | Windows 7 | Principiante | EternalBlue, Metasploit, SMB | [Ver](./TheHackersLabs/Microchoft/README.md) |
+
+> Se irán añadiendo más máquinas conforme avance.
+
+---
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpow)
+
+---
+
+*Todo el contenido de este repositorio tiene fines estrictamente educativos.*
