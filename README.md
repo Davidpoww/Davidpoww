@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mí
 
-Apasionado de la ciberseguridad con enfoque en **Blue Team y Defensa**.
+Enfoque en ciberseguridad **Blue Team y Defensa**.
 Actualmente en formación continua a través de plataformas CTF, estudiando
 redes con **Cisco (CCNA)** y profundizando en herramientas de hacking ético
 y administración de sistemas Linux.
