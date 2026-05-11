@@ -1,58 +1,51 @@
-# 👋 Hey, soy Wopex (David)
+# 👋 Wopex (David)
+
+### 🛡️ Ciberseguridad · 💻 Informático
+
+[![Visitas](https://komarev.com/ghpvc/?username=Davidpoww&label=Visitas&color=0e75b6&style=flat-square)](https://github.com/Davidpoww)
+
+---
+
+### 🧠 Sobre mí
 
 Apasionado de la ciberseguridad con enfoque en **Blue Team y Defensa**.
-Este repositorio recoge mis writeups de CTFs y máquinas de hacking, documentando mi aprendizaje y evolución en el mundo de la seguridad informática.
+Actualmente en formación continua a través de plataformas CTF, estudiando
+redes con **Cisco (CCNA)** y profundizando en herramientas de hacking ético
+y administración de sistemas Linux.
+
+Mi objetivo es especializarme en la protección y fortalecimiento de
+infraestructuras digitales, con especial interés en entornos Linux y
+detección de amenazas.
 
 ---
 
-## 🧠 Sobre mí
+### 🛠️ Tecnologías y herramientas
 
-- 🛡️ Especialización en **Blue Team / Defensa**
-- 🐧 Entorno de trabajo: **Kali Linux**
-- 📡 Estudiando actualmente: **Cisco Networking (CCNA)**
-- 🎯 Próximos objetivos: eJPT → CompTIA Security+ → CEH
-- 🚩 Aprendizaje continuo a través de plataformas CTF y The Big School
+#### ⚙️ Tecnologías principales
 
----
+[![Tecnologías](https://skillicons.dev/icons?i=python,js,docker,linux,bash,wordpress,github,vscode,kali)](https://skillicons.dev)
 
-## 🛠️ Herramientas y Tecnologías
+#### 🧰 Frameworks y herramientas
 
-| Herramienta | Nivel | Progreso |
-|---|---|---|
-| [Kali Linux](https://www.kali.org) | Principiante | ██████░░░░ 55% |
-| [Nmap](https://nmap.org) | Principiante | █████░░░░░ 50% |
-| [Metasploit](https://www.metasploit.com) | Principiante | ████░░░░░░ 35% |
-| [Wireshark](https://www.wireshark.org) | Principiante | ███░░░░░░░ 30% |
-| [Burp Suite](https://portswigger.net/burp) | Principiante | ███░░░░░░░ 25% |
+[![Frameworks](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![Frameworks](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Frameworks](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Frameworks](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://www.mysql.com)
 
 ---
 
-## 📖 Lenguajes en Aprendizaje
+### 📂 Writeups
 
-| Lenguaje | Nivel | Progreso |
-|---|---|---|
-| [Python](https://www.python.org) | Principiante | ███░░░░░░░ 30% |
-| [Bash](https://www.gnu.org/software/bash) | Principiante | ███░░░░░░░ 30% |
-| [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) | Principiante | ██░░░░░░░░ 20% |
-
----
-
-## 📂 Writeups
-
-### 🔴 TheHackersLabs
+#### 🔴 TheHackersLabs
 
 | Máquina | SO | Dificultad | Técnicas | Writeup |
 |---|---|---|---|---|
-| Microchoft | Windows 7 | Principiante | EternalBlue, Metasploit, SMB | [Ver](./TheHackersLabs/Microchoft/README.md) |
+| Microchoft | Windows 7 | Principiante | EternalBlue, Metasploit, SMB | [Ver](https://github.com/Davidpoww/Writeups/tree/main/TheHackersLabs/Microchoft) |
 
 > Se irán añadiendo más máquinas conforme avance.
 
 ---
 
-## 📬 Contacto
+### 🌐 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpow)
-
----
-
-*Todo el contenido de este repositorio tiene fines estrictamente educativos.*
+[![LinkedIn](https://img.icons8.com/ios-filled/48/ffffff/linkedin.png)](https://www.linkedin.com/in/davidpow "LinkedIn")
