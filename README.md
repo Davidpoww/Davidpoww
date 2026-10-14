@@ -2,7 +2,6 @@
 
 ### 🛡️ Ciberseguridad · 💻 Informático
 
-[![Visitas](https://komarev.com/ghpvc/?username=Davidpoww&label=Visitas&color=0e75b6&style=flat-square)](https://github.com/Davidpoww)
 
 ---
 
