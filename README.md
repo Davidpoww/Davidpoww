@@ -43,7 +43,7 @@ Busco mi primer puesto como **SOC Analyst / Blue Team**, en **soporte IT** o en 
 
 ### 🛠️ Stack técnico
 
-[![Stack](https://skillicons.dev/icons?i=linux,fedora,ubuntu,kali,bash,powershell,python,docker,git,github)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,powershell,python,docker,git,github)](https://skillicons.dev)
 
 **🔵 Seguridad y monitorización**
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-3595E6?style=flat-square)
